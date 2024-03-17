@@ -1,0 +1,1981 @@
+company,rating
+Amazon,4.0
+Deloitte,4.1
+Walmart,3.6
+McDonald's,3.7
+Target,4.0
+Accenture,4.2
+IBM,4.3
+Microsoft,4.3
+Starbucks,4.0
+Cognizant Technology Solutions,3.8
+Tata Consultancy Services,4.0
+Google,4.3
+EY,4.0
+The Home Depot,4.0
+PwC,4.1
+Apple,4.3
+US Army,4.1
+Wells Fargo,3.9
+Oracle,4.0
+CVS Health,3.6
+Bank of America,4.2
+Lowe's Home Improvement,3.8
+AT&amp;T,3.9
+JPMorgan Chase &amp; Co,4.2
+KPMG,4.0
+UPS,3.8
+Qualcomm,4.0
+Best Buy,4.0
+Cisco Systems,4.4
+Verizon,4.1
+US Navy,4.0
+Meta,4.0
+Citi,4.0
+US Air Force,4.1
+Dell Technologies,4.3
+Capital One,4.0
+Enterprise,4.1
+HCLTech,3.6
+Salesforce,4.3
+Teleperformance,4.4
+Enterprise,4.1
+HCLTech,3.6
+Salesforce,4.3
+Teleperformance,4.4
+Nordstrom,4.0
+T-Mobile,4.1
+Goldman Sachs,4.0
+ADP,4.2
+SelfEmployed.com,4.2
+Kroger,3.5
+Morgan Stanley,4.0
+Kohl's,3.7
+Comcast,4.1
+Boeing,3.9
+Whole Foods Market,3.9
+State Farm,3.9
+Fidelity Investments,4.3
+Lockheed Martin,4.1
+Chipotle,3.9
+Walt Disney Company,4.0
+PepsiCo,4.1
+YMCA,4.2
+UnitedHealth Group,4.0
+Publix,4.0
+Kaiser Permanente,4.0
+Aerotek,3.6
+SAP,4.4
+Honeywell,4.2
+Spectrum,3.7
+Marriott International,4.2
+Panera Bread,3.7
+Northrop Grumman,4.1
+Subway,3.5
+Costco Wholesale,4.0
+GE,4.1
+American Express,4.4
+FedEx Ground,3.8
+US Marine Corps,4.1
+Tech Mahindra,3.6
+General Motors (GM),4.1
+CGI,4.1
+DXC Technology,3.8
+Hewlett Packard Enterprise | HPE,4.3
+Johnson &amp; Johnson,4.2
+Siemens,4.2
+Staples,3.7
+NIKE,4.2
+Old Navy,4.0
+Tesla,3.8
+Booz Allen Hamilton,4.3
+McKinsey &amp; Company,4.3
+Robert Half,3.9
+Chick-fil-A,4.1
+PNC Financial Services Group,4.0
+Burger King,3.6
+Bloomberg,4.3
+Liberty Mutual Insurance,4.0
+U.S. Bank,3.9
+Barclays,4.1
+UBS,4.0
+HSBC,4.0
+J. C. Penney,3.7
+ALDI,3.7
+ABC,3.8
+Ulta Beauty,3.9
+TD,4.3
+Domino's,3.7
+Procter &amp; Gamble,4.2
+Concentrix,4.2
+Insight Global,3.9
+Ford Motor Company,4.1
+H E B,4.3
+NVIDIA,4.3
+Cerner,3.9
+Thomson Reuters,4.4
+VMware,4.5
+Sam's Club,3.6
+Victoria's Secret,3.7
+Allstate,3.8
+H&amp;M,4.1
+Thermo Fisher Scientific,3.8
+US Department of Veterans Affairs,3.8
+Optum,3.8
+Kforce,3.9
+Intuit,4.5
+Freelancer,3.9
+CBRE,4.0
+Northwestern Mutual,4.0
+Aramark,3.6
+Labcorp,3.9
+DICK'S Sporting Goods,4.1
+Medtronic,4.1
+American Airlines,4.0
+RTX,3.8
+Taco Bell,3.6
+BNY Mellon,3.9
+Chase,4.1
+Hilton,4.1
+Ross Stores,3.7
+J.P. Morgan,4.2
+Progressive Insurance,4.3
+FedEx,3.9
+Wendy's,3.6
+Philips,4.1
+HCA Healthcare,3.6
+IQVIA,4.1
+Delta Air Lines,4.3
+Santander,4.1
+Abbott,3.8
+TEKsystems,3.9
+PetSmart,3.7
+SLB,4.3
+IKEA,4.0
+Credit Suisse,4.1
+Deutsche Bank,3.8
+Bath &amp; Body Works,4.2
+Sodexo,3.6
+University of Michigan,4.2
+Ericsson-Worldwide,4.3
+Pizza Hut,3.7
+NTT DATA,4.1
+Jones Lang LaSalle,4.0
+Adobe,4.4
+United Airlines,4.2
+PayPal,4.0
+Sherwin-Williams,3.8
+Pfizer,4.0
+Charles Schwab,3.9
+Alorica,3.6
+Safeway,3.5
+Trader Joe's,4.2
+Schneider Electric,4.4
+Boston Consulting Group,4.2
+LinkedIn,4.2
+CSC,3.6
+DaVita,3.7
+Gap,3.9
+USAA,3.7
+State Street,3.7
+American Eagle Outfitters,3.9
+Cummins,4.4
+TTEC,3.9
+Abercrombie &amp; Fitch,3.9
+ExxonMobil,3.8
+The Coca-Cola Company,4.1
+Sephora,4.1
+Nokia,4.3
+Humana,4.1
+Fujitsu,3.9
+Olive Garden Italian Restaurants,4.1
+AECOM,3.9
+FIS,3.8
+Fiserv,3.5
+Caterpillar,4.0
+Ascension,3.7
+Gartner,4.1
+Amazon Web Services,3.9
+NBCUniversal,4.1
+ServiceNow,4.5
+Michaels,3.7
+Travelers,4.3
+TJ Maxx,3.9
+Rite Aid,3.5
+HP Inc.,4.4
+Self Opportunity,4.1
+GSK,4.1
+Forever 21,3.5
+lululemon,4.2
+Expedia Group,4.2
+Johnson Controls,3.8
+Shell,4.2
+Foundever,4.0
+University of Washington,4.1
+Goodwill,3.6
+Stryker,4.1
+Yelp,4.1
+Kelly,3.7
+Vanguard,4.0
+Genpact,4.0
+AIG,3.8
+Applebee's,3.7
+Office Depot,3.6
+Merck,4.2
+RSM,4.2
+Pearson,4.0
+CarMax,4.2
+The Cigna Group,3.9
+Mastech Digital,4.1
+Visa Inc.,4.2
+Xerox,3.9
+L'Oréal,4.2
+Barnes &amp; Noble,4.1
+Adecco,3.7
+Sanofi,4.1
+Randstad US,3.9
+Elevance Health,3.9
+eBay,4.2
+Nielsen,3.9
+UST,4.0
+Unilever,4.3
+Lumen,3.8
+BlackRock,4.0
+Stanford University,4.2
+Conduent,3.6
+Manpower,4.2
+Jacobs,4.1
+Fedex Express,3.9
+Novartis,4.1
+NYU (New York University),4.3
+Farmers Insurance Group,3.6
+Uber,4.0
+Yahoo,4.2
+H&amp;R Block,4.1
+Total Quality Logistics,4.4
+Hollister Co.,3.9
+Burlington Stores,3.6
+Providence,3.8
+WTW,4.1
+Texas Instruments,4.2
+Grant Thornton,4.0
+Arizona State University,4.3
+Life Time,3.9
+Genentech,4.2
+Publicis Sapient,3.9
+NCR,3.8
+Prudential,3.9
+Marshalls,3.9
+Rocket Companies,4.0
+United States Federal Government,4.1
+Wegmans Food Markets,4.3
+Bayer,3.9
+KFC,3.6
+Nationwide,4.1
+Cintas,3.8
+3M,3.9
+UKG,4.1
+Columbia University,4.1
+Petco,3.6
+Hyatt,4.1
+Randstad,3.9
+MetLife,4.2
+Texas A&amp;M University,4.1
+Buffalo Wild Wings,3.7
+McKesson,4.0
+UC San Diego,4.2
+Cleveland Clinic,3.9
+University of Pennsylvania,4.1
+Southwest Airlines,4.2
+Zensar Technologies,4.0
+Workday,4.3
+Leidos,4.1
+Micron Technology,3.9
+The Ohio State University,4.1
+University of Texas at Austin,4.1
+Northside Hospital,4.3
+UPMC,3.6
+GE HealthCare,4.3
+EPAM Systems,4.1
+Paycom,3.7
+New York City Department of Education,3.8
+Asurion,3.9
+Nestlé,4.2
+Eaton,4.1
+University of Southern California,4.2
+Tata Consultancy Services (North America),3.7
+Roche,4.2
+AstraZeneca,4.1
+Arizona State University,4.3
+Life Time,3.9
+Publicis Sapient,3.9
+Genentech,4.2
+NCR,3.8
+Prudential,3.9
+Marshalls,3.9
+Rocket Companies,4.0
+Food Lion,3.7
+United States Federal Government,4.1
+Wegmans Food Markets,4.3
+Applied Materials,4.1
+Western Digital,3.8
+Keller Williams,4.4
+John Deere,4.1
+Kmart,3.5
+Urban Outfitters,4.0
+Discover,4.1
+SAIC,4.1
+University of Minnesota,4.1
+Jimmy John's,3.8
+Northwell Health,4.1
+Baylor Scott &amp; White Health,4.0
+Chevron,4.1
+New York Life,4.0
+Halliburton,3.8
+Meijer,3.6
+L3Harris,4.2
+Mastercard,4.4
+DHL Supply Chain,4.0
+Quest Diagnostics,3.8
+Chili's Grill and Bar,3.8
+Harvard University,4.0
+Zara,3.7
+Amgen,4.1
+Memorial Sloan Kettering Cancer Center,4.1
+Chick-fil-A Restaurants,4.0
+Cargill,4.1
+Menards,3.5
+Kraft Heinz,3.7
+Express Employment Professionals,3.8
+Bristol Myers Squibb,4.0
+"The TJX Companies, Inc.",3.9
+Atos-Syntel,3.5
+Paychex,3.9
+US Department of Defense,4.0
+Indeed,4.3
+Mercer,4.0
+Brookdale Senior Living,3.8
+Ecolab,3.9
+Robert Bosch,3.6
+Panda Express,3.8
+Banana Republic,4.0
+Emerson,4.1
+Texas Roadhouse,3.9
+Penn State,4.0
+Maximus,3.9
+Citizens,3.9
+Aetna,3.7
+S&amp;P Global,4.3
+BNP Paribas,4.0
+Instacart,3.7
+Northwestern University,4.0
+AbbVie,3.9
+NYU Langone Health,4.2
+University of Maryland,4.3
+Mayo Clinic,3.9
+DoorDash,3.9
+ZS Associates,4.0
+NetApp,4.2
+MIT,4.1
+AMC Entertainment,3.9
+adidas,4.0
+XPO,3.8
+Rutgers University,4.3
+General Dynamics Information Technology,4.1
+Lyft,3.9
+Boston Scientific,4.2
+Advantage Solutions,3.8
+Slalom,4.1
+The Johns Hopkins University,4.1
+Maxim Healthcare Services,3.8
+Edward Jones,3.8
+Hy-Vee,3.6
+Cardinal Health,3.9
+ABB,4.0
+BASF,3.9
+Sprouts Farmers Market,3.6
+LA Fitness,3.5
+University of Florida,4.1
+Purdue University,4.3
+Harris Teeter,3.7
+Anonymous,3.6
+DONE by NONE,3.7
+University of Chicago,4.0
+bp,3.8
+"Toys ""R"" Us",3.8
+BD,4.0
+Advance Auto Parts,3.5
+Banner Health,3.7
+Mount Sinai Health System,3.8
+AMD,4.2
+Atos,3.8
+Fastenal,3.6
+Whirlpool Corporation,4.1
+Planet Fitness,3.8
+The Cheesecake Factory,4.1
+University of California Berkeley,4.4
+Eli Lilly and Company,4.2
+Nones,3.8
+Banfield Pet Hospital,3.6
+Parexel,4.0
+Sysco,3.5
+PPD,4.2
+Vector Marketing,4.6
+Collins Aerospace,3.9
+Informatica,4.1
+Raising Cane's,4.3
+TaskUs,4.5
+Outback Steakhouse,4.0
+Synopsys,4.2
+Citrix,3.8
+HubSpot,4.2
+Intermountain Health,3.5
+7-Eleven,3.6
+Autodesk,4.4
+Papa John's,3.6
+Paramount,4.0
+Grainger,4.2
+Red Lobster,3.7
+Warner Bros. Discovery,3.7
+Dairy Queen,3.6
+The Hartford,4.0
+Indiana University,4.0
+Apex Systems,3.9
+Anthropologie,3.6
+Northern Trust,4.1
+Cushman &amp; Wakefield,3.8
+Amdocs,4.1
+Kumon,4.1
+Academy Sports + Outdoors,3.7
+Angi,4.0
+University of Pittsburgh,4.0
+Experian,4.5
+MathWorks,4.4
+BAE Systems USA,3.8
+NewYork-Presbyterian Hospital,4.1
+Ricoh,3.8
+Continental,3.8
+J.B. Hunt Transport,3.8
+Mattress Firm,3.6
+Georgia Tech,4.4
+Fresenius Medical Care - North America,3.7
+Cox Communications,4.2
+Fifth Third,4.0
+Estée Lauder Companies,4.0
+Scribe America,3.7
+UC San Francisco,4.2
+American Red Cross,3.7
+Hexaware Technologies,3.8
+UC Davis,4.3
+Electronic Arts,4.1
+Great Clips,3.8
+Motorola Solutions,4.2
+University of Illinois at Urbana-Champaign,4.5
+Protiviti,4.1
+CDW,4.1
+Baxter,3.8
+Dow,4.3
+Greystar,3.9
+KeyBank,4.0
+Société Générale,3.9
+Virtusa,3.6
+Mars,4.2
+Sutherland,3.9
+BAYADA Home Health Care,4.1
+Regions Financial,3.9
+Everise,4.6
+University of Wisconsin-Madison,4.1
+Takeda Pharmaceuticals,4.2
+Little Caesars Pizza,3.6
+WM,3.6
+Regal,3.6
+General Mills,4.2
+WSP,3.9
+American Income Life,4.0
+Washington University in St. Louis,4.0
+DocuSign,3.8
+Avanade,4.4
+Red Hat,4.2
+Aflac,4.0
+Duke University,4.1
+ICON,4.0
+Yale University,4.0
+Express,3.8
+Groupon,3.7
+Toyota North America,4.1
+First Student,3.9
+Convergys,3.8
+In-N-Out Burger,4.3
+GE Aerospace,4.0
+Massachusetts General Hospital,4.1
+American Automobile Association (AAA),3.7
+J. Crew,4.1
+TikTok,3.5
+SpaceX,3.7
+Juniper Networks,4.3
+Kiewit Corporation,3.7
+CACI International,4.2
+Cornell University,4.3
+Liveops,3.9
+Mondelēz International,4.1
+Gilead Sciences,4.0
+University of Utah,3.9
+Capgemini Engineering,4.1
+REI,3.9
+Ralph Lauren,4.1
+C.H. Robinson,3.7
+Sedgwick,3.6
+Larsen &amp; Toubro,3.6
+Brigham Young University (BYU),4.1
+Foot Locker,3.9
+Uniqlo,3.7
+Henkel,4.3
+O'Reilly Auto Parts,3.6
+MD Anderson Cancer Center,4.3
+Boston University,4.0
+Eurofins Scientific,3.6
+"Williams-Sonoma, Inc.",3.8
+FactSet,4.3
+Birlasoft,3.5
+Bloomingdale's,3.5
+Orangetheory Fitness,4.0
+Edelman,3.8
+Albertsons Companies,3.6
+Health Care Service Corporation,4.4
+Patni Computer Systems,3.5
+Wawa,4.0
+BDO USA,3.9
+UT Southwestern Medical Center,4.0
+Shoprite Supermarkets,3.7
+Cross Country,3.8
+Baker Hughes,4.1
+Six Flags,3.9
+Zillow,4.2
+Coforge,3.6
+Bright Horizons Family Solutions,4.1
+Red Robin,3.8
+Michigan State University,4.2
+Chewy,3.9
+Amazon Flex,3.8
+Netflix,4.2
+Cyient,3.5
+Power Home Remodeling,4.7
+DSW,3.9
+Emory University,4.2
+Collabera,4.0
+Arby's,3.6
+NIH,4.3
+Booking.com,4.5
+Enterprise Mobility,4.2
+GNC,3.6
+TIAA,4.2
+CARVANA,3.7
+Stanley Black &amp; Decker,3.9
+Gallagher,3.6
+BBVA,4.3
+Rackspace Technology,4.0
+Anonymous Content,3.7
+Love's Travel Stops &amp; Country Stores,3.9
+Express Scripts,3.6
+Allianz,4.1
+GoDaddy,4.0
+WeWork,3.9
+Siemens Healthineers,4.2
+Navy Federal Credit Union,4.2
+Dignity Health,3.9
+University of Arizona,4.2
+Chubb,3.8
+Infor,4.1
+24 Hour Fitness,3.8
+JetBlue,4.1
+Belk,3.7
+Compass Group,3.6
+Stellantis,3.8
+University of Illinois Chicago,4.2
+Sage,4.2
+Hitachi Vantara,3.8
+KinderCare Learning Centers,3.5
+Northeastern University,4.2
+IHG Hotels and Resorts,4.0
+US Census Bureau,4.4
+European Wax Center,3.6
+HomeGoods,3.8
+Wolters Kluwer,3.8
+Freddie Mac,3.7
+University of Miami,4.1
+Advocate Aurora Health,3.8
+Ameriprise,3.9
+Arm,4.3
+SunTrust,3.9
+Northwestern Medicine,3.8
+Georgia-Pacific,3.6
+Atrium Health,4.1
+Volvo Group,4.2
+Encompass Health,3.9
+North Carolina State University,4.2
+Sunrise Senior Living,3.9
+FedEx Office,4.0
+UnitedHealthCare,3.9
+NHS,3.9
+Under Armour,4.1
+Stop &amp; Shop,3.6
+Anheuser-Busch InBev,3.8
+Private,3.8
+Illumina,4.0
+Assurant,4.0
+BMO Financial Group,4.2
+Kimberly-Clark,4.1
+World Wide Technology,4.2
+ICF,3.9
+Caesars Entertainment,3.8
+Ann Taylor,3.8
+M&amp;T Bank,3.9
+Sutter Health,4.0
+Syneos Health ,4.1
+Fred Meyer,3.5
+Republic Services,3.6
+DuPont,4.1
+Truist,3.7
+Fannie Mae,4.4
+Waffle House,3.7
+Kantar,4.0
+Rockwell Automation,4.1
+Five Guys,3.9
+Mercy,3.7
+BDO,3.8
+Huntington National Bank,4.0
+Mathnasium,4.4
+UNC Chapel Hill,3.9
+Stitch Fix,3.6
+Giant Eagle,3.9
+Lenovo,4.1
+Alight Solutions,4.0
+Ace Hardware,3.6
+SSM Health,3.6
+GlobalFoundries,3.7
+Ryder System,3.7
+Hallmark,3.8
+Kindred Hospitals,3.6
+The Fresh Market,3.5
+Unisys,3.8
+Winn-Dixie,3.6
+Parker Hannifin,3.7
+IRS,4.1
+SAS,4.2
+Cellular Sales,4.0
+University of Georgia,3.8
+US Foods,3.7
+Avis Budget Group,3.6
+CDK Global,3.5
+Tim Hortons,3.5
+Boehringer Ingelheim,4.2
+David's Bridal,3.7
+NOV,3.8
+Ogilvy,3.9
+Sally Beauty,3.6
+Whataburger,3.8
+Memorial Hermann Health System,4.1
+Thales,3.9
+Levi Strauss,4.0
+Inova,4.0
+Nutanix,4.2
+UC Irvine,4.4
+Vanderbilt University Medical Center,3.9
+Gensler,4.0
+Ipsos,3.7
+Coach,4.1
+IHS Markit,4.3
+Tyson Foods,3.6
+Chicago Public Schools,3.8
+Epsilon,4.1
+Arcadis,4.3
+US Coast Guard,4.1
+Boston Children's Hospital,4.0
+Tractor Supply,3.7
+Red Bull,4.1
+Virginia Tech,4.1
+Airbnb,4.3
+Marsh McLennan,4.1
+Omni Hotels,4.4
+Brigham and Women's Hospital,4.0
+Gap Inc.,4.0
+athenahealth,3.8
+Zimmer Biomet,3.8
+Tesco,3.9
+Carnegie Mellon University,4.3
+Catalent Pharma,3.7
+Compunnel,4.1
+Akamai,4.5
+Reckitt,4.0
+Kellanova,3.9
+CHI,3.5
+Motorola Mobility,4.0
+Publicis Groupe,4.0
+University of Colorado Boulder,3.9
+BT Group,4.0
+United Wholesale Mortgage (UWM),3.5
+Paylocity,4.1
+National Instruments,4.2
+OpenText,3.8
+R.R. Donnelley,3.6
+EXL Service,3.7
+Bob Evans Restaurants,3.7
+Nestlé Purina U.S.,4.0
+Magna International,3.8
+Confidential,3.6
+ASML,4.2
+CROSSMARK,3.6
+ProMedica Senior Care,3.6
+Cinemark,4.0
+Macquarie Group,4.1
+Insight,4.2
+Regeneron,4.0
+Houston Methodist,4.5
+Walmart Global Tech,4.0
+General Atomics,3.6
+Pier 1 Imports,3.6
+Advisory Board,3.8
+iHeartMedia,3.6
+Windstream,3.7
+Cox Automotive,4.2
+Medline Industries,3.8
+Aya Healthcare,4.3
+Journeys,4.0
+Primark,3.9
+MarketSource,3.8
+Crowe LLP,4.2
+Seagate Technology,3.8
+loanDepot,3.5
+Party City,3.8
+Vivint,3.8
+WestRock,3.6
+Equinox,3.8
+Palo Alto Networks,4.1
+Morningstar,4.2
+P.F. Chang's,4.2
+TSA (Transportation Security Administration),3.6
+QuikTrip,4.2
+Pratt &amp; Whitney,3.9
+Yardi Systems,4.2
+KBR,4.1
+University of Virginia,4.1
+Ferguson Enterprises,3.6
+Better,3.5
+Kearney,4.0
+Vans,4.3
+TE Connectivity,3.9
+Indiana University Health,3.8
+Turner Construction,4.2
+Molina Healthcare,3.7
+Sheetz,3.9
+University of South Florida,4.2
+eXp Realty,4.7
+Gannett,3.6
+Four Seasons,4.2
+Discount Tire,4.0
+Raymond James Financial,4.0
+Pacific Gas and Electric,3.9
+The World Bank,4.3
+Agilent Technologies,4.2
+UCHealth,3.7
+Korn Ferry,3.7
+Glassdoor,4.6
+Merkle,3.9
+Jabil,4.0
+Nuance,4.1
+LexisNexis Legal &amp; Professional,4.1
+CHRISTUS Health,3.8
+Equifax,3.8
+Cadence Design Systems,4.3
+Capital Group,4.0
+Block,4.2
+Other,3.8
+Appen,3.7
+TransPerfect,3.6
+DHL Express,4.1
+Varsity Tutors,3.6
+TransUnion,4.0
+Stantec,4.0
+OneMain Financial,3.7
+IGATE,4.1
+MGM Resorts International,4.0
+Dallas Independent School District,3.7
+Grubhub,3.7
+Garmin,3.8
+Broadridge,4.1
+Ally Financial,3.9
+Penske Truck Leasing,3.6
+Jersey Mike's,3.9
+HARMAN,3.9
+Los Angeles USD,4.0
+Red Ventures,3.5
+West Technology Group,3.9
+Arrow Electronics,3.9
+University of Iowa,4.1
+FTI Consulting,3.8
+University of Central Florida,4.1
+NASA,4.4
+MassMutual,4.0
+Analog Devices,4.1
+University of Kentucky,3.9
+Boys &amp; Girls Clubs of America,4.1
+Sogeti,3.9
+Teradata,4.0
+George Washington University,4.0
+Guidehouse,3.8
+Not Listed,3.8
+Harbor Freight Tools,3.8
+Scotiabank,4.2
+AXA,4.1
+Acosta,3.5
+Bosch,4.1
+G4S Secure Solutions,3.5
+Perficient,4.0
+Experis,3.7
+ALSTOM,3.9
+Alcon,3.8
+Corning,3.9
+Morrison Healthcare,3.7
+SkyWest Airlines,3.8
+Ingram Micro,4.0
+Iowa State University,4.2
+Thoughtworks,4.2
+Hampton Inn by Hilton,3.6
+Sabre,4.1
+Techtronic Industries North America,3.7
+Compass,3.8
+University of Missouri,3.9
+Popeyes,3.5
+Honda,3.7
+GlobalLogic,3.8
+Change Healthcare,3.8
+Fisher Investments,3.8
+Duke Energy,4.0
+Cencora,3.6
+Lincoln Financial Group,3.9
+CompuCom,3.8
+International Paper,3.7
+GALLO,4.1
+The Goddard School,3.6
+Oregon Health &amp; Science University,3.6
+Florida State University,4.1
+TruGreen,3.7
+Vanderbilt University,4.2
+Luxottica,3.7
+FDM Group,4.0
+Carter's,3.9
+Nestlé USA,4.0
+Splunk,4.1
+American Family Insurance,3.6
+NatWest Group,4.3
+XYZ,3.6
+T. Rowe Price,3.9
+Novant Health,4.0
+Unum,4.0
+Planned Parenthood,3.6
+Aveanna Healthcare,4.0
+Premium Retail Services,3.7
+Avaya,3.7
+Cengage Group,4.2
+Emory Healthcare,4.0
+Huron Consulting Group,3.9
+TechnipFMC,4.2
+AMN Healthcare,4.1
+Panasonic,3.7
+Marvell Technology,4.2
+Lam Research,3.9
+Umbrella Corporation,4.2
+Denny's,3.5
+Bechtel,4.1
+Bank of the West,4.0
+Principal Financial Group,3.9
+Ey,4.0
+Teach for America,4.2
+Neiman Marcus,3.6
+Heartland Dental,3.9
+National Grid,4.0
+Five Below,3.6
+Baylor College of Medicine,3.9
+Iron Mountain,3.8
+Duke Health,4.0
+Pandora Jewelry,3.8
+University of Phoenix,4.3
+Sunrun,3.8
+Home Instead,3.9
+Rolls-Royce,3.9
+Arup,4.3
+Stefanini,4.0
+Aéropostale,3.7
+Colgate-Palmolive,4.3
+Jack in the Box,3.5
+Novo Nordisk,4.2
+Children's Hospital of Philadelphia,4.0
+Saint-Gobain,3.9
+Black &amp; Veatch,3.9
+Temple University,4.2
+Florida International University,4.4
+Royal Caribbean Group,4.1
+Dassault Systèmes,4.2
+Tiffany &amp; Co.,3.5
+UniFirst,3.9
+MUFG,3.7
+Esri,4.1
+BJC HealthCare,3.8
+TGI Fridays,3.7
+MilliporeSigma,3.8
+M·A·C Cosmetics,4.2
+Universal Orlando Resort,4.4
+francesca's,3.5
+Weill Cornell Medicine,3.9
+OfficeMax,3.6
+Chuck E. Cheese,4.0
+Wyndham Destinations,3.9
+Pitney Bowes,3.9
+The UPS Store,3.8
+Dropbox,4.4
+Texas Tech University,4.1
+PTC,4.2
+Southern Glazer's Wine &amp; Spirits,3.7
+Georgetown University,3.9
+CIBC,4.2
+Standard Chartered Bank,4.0
+Henry Ford Health,4.0
+Kaplan,3.9
+Princeton University,4.3
+Pacific Sunwear,3.9
+Guitar Center,3.6
+FirstService Residential,4.0
+Manhattan Associates,4.0
+Holiday Inn Express,3.6
+Eastman,3.7
+U.S. Department of State,3.8
+Burns &amp; McDonnell,4.1
+Transamerica,3.6
+Grifols,3.5
+ADM,3.9
+Allscripts,3.9
+Fluor,4.0
+Ritz-Carlton,4.0
+LongHorn Steakhouse,4.0
+University of Connecticut,4.3
+Culver's,3.7
+MAERSK,4.2
+UScellular,4.1
+Raytheon,3.9
+Live Nation Entertainment,4.1
+Test,3.7
+Texas Health Resources,4.1
+Zaxby's,3.6
+Extra Space Storage,4.5
+Darden,4.2
+Pacific Dental Services,3.7
+Piedmont Healthcare,3.9
+Newell Brands,3.7
+Valeo,3.9
+ZF Group,3.8
+Warner Bros.,3.7
+SeaWorld Parks &amp; Entertainment,3.9
+Western Union,4.0
+General Dynamics Mission Systems,3.8
+Equitable Advisors,4.0
+SolarCity,4.3
+Trinity Health,3.8
+Goodyear,3.6
+Georgia State University,4.3
+Rockwell Collins,3.6
+Airbus,4.1
+Charles River Laboratories,3.8
+The GIANT Company,3.7
+Veolia,3.9
+Viasat,4.0
+MedStar Health,4.0
+LUSH North America,4.1
+Genesys,4.3
+Serco Group,3.7
+Redfin,4.1
+Hot Topic,4.3
+United States House of Representatives,3.7
+Houston ISD,3.6
+PVH Corp.,4.0
+Amadeus,4.3
+HDR,4.0
+BMW Group,3.9
+UC Santa Barbara,4.2
+"Discovery, Inc.",3.9
+Parsons Corporation,3.9
+Southern California Edison,4.1
+Louis Vuitton,3.6
+RealPage,3.9
+Lionbridge,3.7
+University of North Texas,4.3
+ENGIE,4.0
+TELUS International,4.0
+LensCrafters,3.5
+Keysight Technologies,4.2
+Signet Jewelers,4.0
+Freelance,4.1
+Blue Shield Of California,4.2
+HII,3.8
+Bridgestone Americas,3.9
+Aaron's,3.5
+DHL,3.9
+BJ's Restaurants,4.0
+Palantir Technologies,3.7
+Siemens Digital Industries Software,4.2
+Cvent,4.0
+KLA,4.1
+LPL Financial,4.1
+LSU,4.0
+Hays,3.7
+Adventist Health,3.8
+Johns Hopkins Medicine,4.0
+NTT Ltd.,4.0
+Vacasa,3.5
+Synchrony,4.4
+GLG,3.9
+ING,4.2
+iQor,3.6
+Persistent Systems,3.8
+RGIS,3.7
+RE/MAX,4.1
+Beaumont Health,3.7
+CNH Industrial,3.8
+Sony,4.0
+Blackbaud,3.8
+Smith &amp; Nephew,4.2
+George Mason University,4.4
+NTT DATA Business Solutions,3.9
+BlackBerry,3.5
+Chico's FAS,3.8
+Faurecia,3.7
+University of Cincinnati,4.1
+Airgas,3.5
+Colorado State University,4.0
+Toast Inc,4.2
+FedEx Freight,3.9
+Conagra Brands,3.7
+Penn Medicine,3.9
+University of Alabama at Birmingham,4.2
+Lawrence Livermore National Laboratory,4.3
+HUB International,4.0
+Sandia National Laboratories,4.0
+Bass Pro Shops,3.6
+Cedars-Sinai Medical Center,4.3
+Blizzard Entertainment,3.6
+Fast Enterprises,4.0
+UT Dallas,4.5
+Avon,4.1
+St. Jude Children's Research Hospital,4.4
+SHI International,3.6
+Baker Tilly US,3.9
+Rivian,3.7
+Healthcare Services Group,3.9
+Cincinnati Children's Hospital,4.2
+Teva Pharmaceuticals,3.7
+ArcelorMittal,3.8
+Equinix,4.3
+MongoDB,4.2
+Dana-Farber Cancer Institute,4.0
+Zendesk,4.1
+The Buckle,3.8
+Globant,4.6
+Micro Focus,4.0
+McAfee,4.1
+Freedom Mortgage,3.5
+Crothall Healthcare,3.7
+Revature,4.1
+AutoNation,3.8
+Bankers Life,3.9
+Alcatel-Lucent,4.0
+Stanford Health Care,3.9
+Schneider,3.8
+Metropolitan Transportation Authority,3.9
+Sentara Health,4.0
+Fragomen,4.0
+US Department of Homeland Security,4.0
+UCLA Health,4.0
+WyzAnt,4.3
+ManTech,4.4
+CEVA Logistics,3.7
+GardaWorld,3.5
+Safelite AutoGlass,3.5
+Dun &amp; Bradstreet,4.1
+Mu Sigma,3.5
+IGT,4.0
+Electrolux,4.0
+University of Oklahoma,4.0
+Oregon State University,4.4
+SelectQuote,3.6
+Compass Group USA,3.8
+Sport Clips,3.5
+Alaska Airlines,4.1
+Finish Line,3.9
+United Way,3.7
+Terminix,3.5
+F5,4.1
+Noodles &amp; Company,4.2
+Dave &amp; Buster's,3.8
+Children's Healthcare of Atlanta,3.9
+Computershare,3.9
+GRANDISON MANAGEMENT,4.1
+City Year,3.7
+Extended Stay America,3.7
+DISYS,4.0
+UL Solutions,3.9
+TCS,3.9
+Madewell,4.3
+Frito-Lay,3.5
+Tripadvisor,4.1
+Beth Israel Deaconess Medical Center,3.8
+The Hershey Company,3.8
+BMC Software,4.2
+Universal Studios,4.0
+Shopify,3.7
+Fairview Health Services,3.7
+OMD,3.9
+University of Rochester,3.9
+DENSO,3.8
+Western Governors University,4.1
+Tommy Hilfiger,3.7
+Oliver Wyman,4.2
+Kimley-Horn,3.8
+Montefiore Medical,4.1
+Marathon Petroleum,3.6
+AdventHealth Orlando,4.0
+University Hospitals,3.9
+Bose,3.9
+CUNY (City University of New York),4.1
+PlayStation,4.1
+Koch Industries,3.6
+Kuehne+Nagel,3.8
+BMO US,4.1
+the LEGO Group,4.3
+CLA (CliftonLarsonAllen),3.9
+HERE Technologies,4.1
+CSL Plasma,3.7
+United Nations,4.1
+Sun Life,4.3
+Rush University Medical Center,4.1
+Itaú Unibanco (Itaú BBA e Rede),4.3
+The Clorox Company,3.9
+Zoom Video Communications,3.8
+ZoomInfo,3.9
+Men's Wearhouse,4.0
+American Cancer Society,3.9
+Starwood Hotels &amp; Resorts,4.1
+Fortinet,4.1
+Anheuser-Busch,3.6
+Ubisoft,4.1
+Washington State University,4.0
+JBS,3.7
+Kemper,3.9
+Amedisys,3.5
+CareerStaff Unlimited,3.5
+Gulfstream,3.5
+Shipt,4.0
+Cypress Semiconductor,3.7
+QVC,3.9
+Intuitive (Intuitive Surgical),4.1
+Gordon Food Service | Service Alimentaire Gordon,3.6
+Fossil Group,4.1
+Pegasystems,3.9
+UC Riverside,4.3
+Riot Games,4.2
+United Rentals,4.1
+Cold Stone Creamery,3.9
+BayCare Health System,4.0
+R1 RCM,3.7
+thyssenkrupp,3.8
+Action Behavior Centers - ABA Therapy for Autism,4.2
+TIBCO Software,3.8
+Weatherford,3.7
+Rakuten,3.7
+MicroStrategy,4.1
+Wiley,3.8
+Sanford Health,3.5
+Procore Technologies,4.2
+freelance,4.1
+Medpace,3.6
+Actalent,3.8
+Disneyland Resort,4.0
+NXP Semiconductors,4.1
+Beacon Hill Staffing Group,3.9
+Blue Yonder,4.3
+Case Western Reserve University,4.0
+Box,4.5
+Snap,3.8
+Oklahoma State University,4.3
+TELUS,4.1
+University of Texas at Arlington,4.3
+Microchip Technology,4.1
+Gold's Gym,3.7
+Carrier,3.9
+Spirit Airlines,4.3
+Nomura Holdings,3.8
+Coldwell Banker,4.4
+Peloton Interactive,4.0
+University of South Carolina,4.0
+University of Houston System,4.2
+Michael Kors,3.9
+Datadog,3.8
+Republic National Distributing Company,3.7
+Virginia Commonwealth University,4.2
+Orange,4.0
+Mitsubishi,3.6
+Tillys,4.0
+Holiday Inn,3.6
+Kate Spade New York,4.2
+The Church of Jesus Christ of Latter-day Saints,4.2
+The Container Store,3.8
+Coty,3.9
+Alvarez &amp; Marsal,3.6
+Ruby Tuesday,3.5
+ManpowerGroup,4.0
+Orlando Health,4.2
+Milwaukee Tool,3.8
+Horizon Media,4.0
+Unity,3.9
+Clean Harbors,3.5
+Spirit Halloween,4.2
+Bluegreen Vacations,4.5
+Capgemini Invent,4.2
+Moody's Analytics,4.2
+Empower,4.0
+Weber Shandwick,3.6
+Exelon,4.2
+Skechers U.S.A.,3.5
+Stripe,3.5
+Medical University of South Carolina,3.9
+Mindshare,4.1
+ALDO Group,3.8
+LanguageLine Solutions,3.6
+Hearst,3.6
+Tetra Tech,3.7
+ATI Physical Therapy,3.9
+Lockton Companies,3.9
+PPG,3.8
+Allina Health,3.7
+USI Insurance Services,4.1
+ByteDance,3.8
+ASDA,3.5
+Clemson University,4.1
+Kohler Co.,3.8
+Keurig Dr Pepper,3.7
+Diebold Nixdorf,3.6
+Worley,4.0
+CohnReznick,4.1
+Veeva Systems,3.9
+Floor &amp; Decor,3.7
+Wood,4.0
+Scripps Health,4.1
+Infineon Technologies,4.2
+World Market,4.1
+OhioHealth,4.0
+TotalEnergies,3.8
+Tyler Technologies,4.1
+Colliers,3.7
+GE Vernova,4.2
+NASA Jet Propulsion Laboratory,4.2
+Air Liquide,3.9
+Walgreens Boots Alliance,3.7
+Linde,3.7
+Tropical Smoothie Cafe,3.5
+McGraw Hill,3.8
+Kwik Trip,3.8
+DB Schenker,3.6
+Hannaford,4.0
+Zurich North America,4.0
+AmeriCorps,4.2
+Baptist Health South Florida,4.2
+Moody's,3.9
+University of Notre Dame,4.1
+Renewal by Andersen,4.1
+Edwards Lifesciences,4.1
+The University of Kansas,4.0
+Janssen,4.1
+US Army Corps of Engineers,3.8
+Con Edison,4.1
+Fresenius Medical Care,3.6
+Hinduja Global Solutions,3.7
+Molson Coors Beverage Company,4.1
+"CSAA Insurance Group, a AAA Insurer",4.1
+The Vitamin Shoppe,3.9
+Ochsner Health,3.8
+Athleta,4.1
+Prime Communications,3.7
+Mazars,3.8
+Silicon Valley Bank,4.2
+Union Bank,4.0
+Ciox Health,4.1
+First Republic,4.3
+Vertex Pharmaceuticals,4.3
+YASH Technologies,3.6
+Envoy Air,3.8
+Okta,3.7
+ConocoPhillips,4.0
+Brown Brothers Harriman,3.8
+American Heart Association,4.2
+Wayne State,4.3
+LHC Group,3.8
+Elsevier,4.3
+HD Supply,3.8
+DOD,3.9
+Lear Corporation,3.8
+RaceTrac,3.5
+BAE Systems,3.8
+CoreLogic,4.3
+Atento,4.1
+Southern New Hampshire University,4.2
+Peraton,3.7
+Houzz,3.9
+Altria,4.0
+Fairfax County Public Schools,3.9
+AOL,3.7
+Mass General Brigham,3.9
+Mercedes-Benz Group,4.1
+Randstad Sourceright,4.4
+Comerica,4.1
+Brown University,4.2
+Educational Testing Service,3.5
+"Brink's, Incorporated",3.5
+Ceridian,4.2
+AdventHealth Corporate,4.1
+Kerry,3.7
+Auburn University,4.0
+Diageo,4.2
+Navistar,4.0
+Army National Guard,4.3
+Hyland,3.7
+Bozzuto,4.3
+Hooters,3.8
+Stony Brook University,4.0
+Tufts University,3.9
+Capri Holdings,3.9
+Hilti North America,4.3
+GroupM,4.1
+Mr. Cooper,3.8
+Bread Financial,4.3
+State of Michigan,3.7
+First American Financial Corporation,3.8
+Sprinklr,3.7
+University of Delaware,4.1
+Willow Bridge Property Company,4.3
+K12,3.5
+Veritas Technologies,4.2
+Bureau Veritas,3.5
+Sharp HealthCare,4.1
+NielsenIQ,4.3
+EY-Parthenon,3.9
+GE Capital,4.3
+UNC Health,3.9
+ITC Infotech,3.7
+AppFolio,3.9
+Hilton Garden Inn,3.7
+Syracuse University,4.0
+PeopleReady,3.7
+NYC Health + Hospitals,3.8
+Select Medical,3.7
+Syngenta,4.0
+Starcom Worldwide,3.9
+ESPN,3.8
+Delaware North,3.5
+Mattel,4.2
+Trilogy Health Services,4.2
+CME Group,3.9
+UTHealth Houston,4.0
+System Soft Technologies,3.8
+Lonza,3.7
+Mercedes-Benz International,3.9
+Ciber,3.5
+Spectrum Health,3.7
+Tulane University,3.8
+Sleep Number Corporation,3.7
+All American Healthcare,3.5
+Kroll,3.7
+Texas Health and Human Services Commission,3.7
+Free People,3.8
+WPP,3.7
+Nagarro,4.1
+Allergan,4.0
+Samsung Austin Semiconductor,3.9
+Highmark Health,3.8
+Doubletree By Hilton,3.9
+Konica Minolta Business Solutions,3.6
+U.S. Department of Agriculture,3.9
+"NextEra Energy, Inc.",3.8
+New Relic,4.0
+LanceSoft,4.1
+Drexel University,4.1
+Jamba,3.9
+Frontier Airlines,3.8
+Echo Global Logistics,4.0
+Susquehanna International Group (SIG),3.9
+Torrid,4.1
+The University of Massachusetts Amherst,4.2
+TSYS|Total System Services,3.9
+Nissan North America,3.8
+NAPA Auto Parts,3.5
+Rice University,4.3
+SUNY Buffalo,4.2
+Easterseals,3.8
+Magnit,3.5
+Prisma Health,3.7
+Zumiez,4.1
+DriveTime Automotive Group,4.0
+Moss Adams LLP,4.1
+Center for Autism and Related Disorders,3.7
+AppleOne,4.2
+Samsara,4.3
+eClinicalWorks,4.1
+Tableau Software,4.0
+Pinterest,3.9
+GEODIS,3.5
+ERM,3.9
+Concentra,3.6
+SC Johnson,3.9
+Westinghouse,3.5
+Liberty University,3.9
+CareerBuilder,3.7
+CNA,3.9
+Blue Cross Blue Shield of Michigan,4.1
+FAA,3.9
+Chegg,4.0
+TriNet,3.9
+Nissan,3.9
+BearingPoint,3.9
+National General Insurance,3.6
+IBEX Global,3.7
+Insperity,4.0
+CommScope,3.8
+RIT (Rochester Institute of Technology),4.2
+Mercy Health,3.7
+Seattle Children's,3.5
+Marriott Vacations Worldwide,4.1
+Epiq,3.7
+Xceltech,3.8
+Intercontinental Exchange,3.6
+Pluralsight,3.7
+Bob's Discount Furniture,4.0
+Nike,4.3
+Nationwide Children's Hospital,4.1
+U.S. Food and Drug Administration,4.1
+NICE,4.0
+GM Financial,4.0
+West Virginia University,3.8
+Sony Pictures Entertainment,3.9
+Coca-Cola Consolidated,3.7
+Grand Canyon University,3.8
+onsemi,3.8
+Cision,3.5
+RingCentral,3.9
+Hologic,3.8
+Hitachi,3.8
+"Ryan, LLC",4.5
+Citadel,3.5
+Houghton Mifflin Harcourt,3.7
+Anytime Fitness,3.7
+ALTEN,3.7
+Geisinger,3.6
+Franklin Templeton Investments,4.1
+DTCC,4.2
+"Harley-Davidson, Inc.",3.6
+Amtrak,3.7
+State of California,4.0
+Modis,3.6
+Mariano's,3.5
+Invesco,3.9
+Toyota Motor Corporation,3.8
+Beckman Coulter Diagnostics,3.7
+Guardian Life,3.8
+Swiss Re,4.2
+Self Employed Womens Association,4.2
+Giant Food,3.7
+Bell,3.9
+Oak Street Health,4.1
+Allegiant Air,4.3
+Sheraton,3.8
+MediaCom,3.9
+Campbell's,3.7
+Mosaic North America,4.0
+Pennymac,3.6
+Penguin Random House ,3.6
+Ashley Furniture Homestore,3.6
+Avery Dennison,4.1
+Zynga,4.6
+CNN,3.6
+Populus Group,3.7
+Spencer Gifts,4.4
+Los Angeles County,3.9
+AllianceBernstein,3.8
+HCL Global Systems,3.7
+Clarks,3.8
+Cornerstone OnDemand,3.9
+Citicapital Commercial Corp,4.0
+Tech Data,3.7
+City of New York,3.8
+BHP,4.0
+Wix,4.2
+Marsh,4.0
+Mutual of Omaha,4.2
+Hibu,4.3
+Charlotte-Mecklenburg Schools,3.5
+Republic Airways,3.8
+Zebra Technologies,4.2
+Cielo,4.2
+City of Hope,4.2
+Yext,4.1
+Los Alamos National Laboratory,3.7
+TCC Verizon Authorized Retailer,4.5
+Dow Jones,3.8
+Danone,4.0
+Crunch Fitness,3.8
+Battelle,3.9
+San José State University,4.4
+SiriusXM,3.7
+Primerica,4.4
+State of Florida,3.6
+Goosehead Insurance,3.7
+Ciena,4.3
+Jefferies,3.8
+Firehouse Subs,3.6
+PUMA,4.2
+University of Oregon,4.0
+Thomas Jefferson University and Jefferson Health,3.8
+LexisNexis Risk Solutions,4.2
+Artech L.L.C.,3.7
+Orange County Public Schools (FL),3.6
+Hyundai Motor,3.8
+US Patent and Trademark Office,4.0
+UC Santa Cruz,4.3
+Lawrence Berkeley Lab,4.0
+WellCare,3.9
+Great Wolf Lodge,3.8
+DePaul University,4.3
+Trimble,4.2
+Flexport,3.5
+American Express Global Business Travel,4.3
+IDEXX Laboratories,3.6
+MultiCare Health System,3.8
+Denver Public Schools,3.5
+Caltech (California),4.2
+Victra-Verizon Authorized Retailer,3.5
+CITYMD,3.9
+Florida Blue,4.2
+Norwegian Cruise Line Holdings Ltd,3.9
+Habitat for Humanity,3.8
+Aimbridge Hospitality,3.7
+Barnes &amp; Noble Education,3.9
+Lowes Foods,3.9
+VXI Global Solutions,4.1
+Olympus,3.7
+GoTo,4.1
+Caribou Coffee,3.9
+Startek,3.9
+Vons,3.6
+Owens Corning,3.8
+CenterWell,3.7
+Nothing Bundt Cakes,3.6
+John Hancock,4.1
+Tory Burch,3.8
+SEI Investments,4.1
+AccentCare,3.5
+Henry Schein,4.1
+Gusto,3.8
+New York Times,3.6
+SAP Concur,4.4
+Thryv,3.9
+PageGroup,4.0
+Infosys BPM,3.7
+Jack Henry &amp; Associates,4.0
+Books-A-Million,3.9
+U.S. Senate,3.8
+Bimbo Bakeries,3.5
+Shutterfly,3.7
+KnowBe4,4.5
+FINRA,4.2
+Jane Street,4.4
+Tenneco,3.5
+Criteo,4.5
+The University of Alabama,3.9
+Marco's Pizza,3.6
+PruittHealth,4.0
+Schaeffler,3.7
+North American Corporation,4.0
+Guidewire,4.3
+Check Point Software Technologies,4.0
+Dutch Bros.,4.2
+Jackson Hewitt,3.9
+Levy,3.7
+Verisk,3.9
+Wingstop,3.6
+Manulife,4.2
+University of Houston,4.3
+International Rescue Committee,3.8
+Allstate Insurance,3.9
+American Campus Communities,4.0
+Swarovski,3.8
+Arise,3.5
+Dexcom,4.0
+Bio-Rad Laboratories,3.7
+Atkins,4.1
+Plato's Closet,3.6
+Riverbed Technology,3.8
+UnityPoint Health,3.9
+Hilton Grand Vacations,3.8
+Dominion Energy,3.9
+Robinhood,3.8
+Conn's,3.8
+US Department of Justice,3.9
+Fred Hutch Cancer Center,4.2
+Talbots,3.7
+Kyndryl,4.1
+MOD Pizza,4.3
+Wake County Public Schools,3.5
+Lane Bryant,3.8
+Fairmont Hotels &amp; Resorts,4.1
+Atria Senior Living,3.5
+Swift Transportation,3.6
+Cotton On,3.7
+Build-A-Bear,3.8
+Paycor,3.9
+Biolife Plasma Services,3.6
+Veterans United Home Loans,4.3
+Snowflake,3.8
+RTI International,4.2
+Pure Storage,4.2
+Blue Origin,3.8
+Bombardier,4.0
+WinCo Foods,3.6
+Towne Park,3.9
+The North Face,4.1
+Zscaler,3.8
+Centers for Disease Control and Prevention,3.9
+TeamHealth,3.8
+Flowserve,3.9
+Slack,4.2
+Magellan Health,3.6
+Ralphs,3.6
+Cruise,3.7
+Air Products,4.3
+Vestas Wind Systems,4.0
+Avnet,4.3
+Xilinx,4.0
+Warby Parker,3.9
+Belcan,4.1
+Auto-Owners Insurance,3.7
+Smoothie King,3.7
+Luxoft,4.2
+Service Corporation International,3.7
+VITAS Healthcare,4.0
+Evolent,4.0
+BorgWarner,3.9
+Main Event,3.7
+Carrabba's Italian Grill,3.9
+Whiting-Turner,4.0
+Balfour Beatty,3.9
+Analysis Group,4.2
+Krispy Kreme,3.8
+Vaco,4.1
+Cotiviti,3.8
+Fusion Medical Staffing,4.1
+Hulu,4.1
+Jaguar Land Rover,4.0
+Volkswagen Group,3.9
+PIMCO,3.6
+Copart,3.7
+Southern Company,4.3
+Beyond,3.9
+Fanatics,3.7
+Universal Music Group,3.6
+Shake Shack,3.9
+OTIS,3.7
+Cricket Wireless,3.6
+Independent,4.0
+Sony Music Entertainment,4.0
+University of Texas at San Antonio,4.3
+Univar Solutions,3.8
+V-Soft Consulting Group,4.0
+Lehigh Valley Hospital and Health Network,3.5
+Michigan Medicine,3.9
+United States Steel,3.6
+Webhelp,4.1
+Texas Children's Hospital,4.1
+CitiusTech,3.6
+Myself,4.2
+Kansas State University,4.0
+Meltwater,3.7
+Finastra,4.2
+UNC Charlotte,4.4
+Citco,3.8
+University of Nebraska–Lincoln,4.1
+Potbelly Sandwich Works,3.7
+TD Bank,4.3
+Firstsource Solutions,3.5
+Hexagon,3.8
+Ansys,4.3
+Boston College,3.8
+Cloudera,4.2
+Visiting Angels,4.0
+Big 5 Sporting Goods,3.8
+KIPP Schools,3.5
+CoverMyMeds,3.5
+California Pizza Kitchen,4.2
+Visionworks,3.6
+Hasbro,3.6
+Werner Enterprises,3.6
+Smartsheet,4.0
+Dynatrace,4.1
+Atlas Copco,4.2
+ITW,3.6
+DTE Energy,3.8
+Maxim Integrated,4.0
+Gallup,4.6
+L Brands,4.1
+Medallia,3.9
+West Monroe,3.6
+Leo Burnett,3.8
+MRM,3.7
+Inovalon,3.5
+Heartland,3.8
+Ness Digital Engineering,4.1
+Coupa Software Inc,4.0
+Volunteers of America,3.5
+Freeport-McMoRan,3.9
+Kendra Scott,3.9
+AvalonBay Communities,4.3
+Hartford HealthCare,3.7
+Hackensack Meridian Health,4.0
+University of Louisville,3.8
+Servpro Industries,3.5
+Corteva Agriscience,4.0
+Samsung Semiconductor Inc (US),3.8
+First Citizens Bank,3.7
+RWJBarnabas Health,3.9
+EDF,4.0
+AMS,4.2
+MarketStar,4.0
+OSF HealthCare,3.6
+Mavis Discount Tire,4.3
+Blue Cross and Blue Shield of North Carolina,4.4
+One Medical,3.9
+Equity Residential,4.3
+Boston Medical Center,4.2
+GEP,4.0
+Columbia Sportswear,3.8
+Moog Inc.,4.0
+Havas Media,4.0
+HSN,3.8
+Broward County Public Schools,3.7
+FCB Global,3.9
+Mott MacDonald,4.2
+Shaw Industries,3.8
+Amica Insurance,3.7
+"Quora, Inc.",4.6
+PerkinElmer,3.8
+Private Practice,4.0
+SoFi,3.6
+Hudson's Bay Company,3.8
+Smile Direct Club,3.6
+Daikin,3.6
+Dartmouth,4.1
+Varian Medical Systems,4.0
+Dolby,4.0
+Avalara,4.0
+BrightSpring Health Services,3.9
+Family First Life,4.1
+"DHL Global Forwarding, Freight",4.1
+AmTrust Financial,3.6
+Medical College of Wisconsin,3.9
+Acxiom,3.9
+Embraer,4.0
+Peet's,4.1
+Rio Tinto,3.8
+Carilion Clinic,3.9
+ViacomCBS Streaming,3.7
+Occidental Petroleum,3.9
+IDK,3.9
+Coinbase,3.7
+HonorHealth,3.9
+University of Arkansas for Medical Sciences,3.8
+Rev,3.6
+(no)name,3.6
+Vertafore,4.0
+Pottery Barn,3.6
+CALVIN KLEIN,3.9
+Bonefish Grill,3.8
+Lucid Motors,3.6
+Nespresso,4.1
+CH2M,4.2
+Herbalife,4.2
+VF,4.0
+American University,3.9
+TCF,3.6
+Nasdaq,4.3
+University of New Mexico,4.1
+AkzoNobel,4.0
+Sierra Nevada Corporation,3.8
+Atlantic Health System,4.2
+Realtor.com,3.7
+Kimpton Hotels &amp; Restaurants,4.2
+MSCI,4.2
+Sunbelt Rentals,3.6
+White House Black Market,3.7
+Natixis,4.0
+Dynata,3.6
+McCann Worldgroup,3.7
+Choice Hotels,3.8
+Ultimate Medical Academy,4.4
+Databricks,4.1
+NorthShore University HealthSystem,3.8
+Cheddar's Scratch Kitchen,3.9
+Lexmark International,4.2
+Epicor Software,4.1
+Scholastic,3.8
+Loyola University Chicago,3.7
+Burberry,3.6
+Wunderman Thompson,4.0
+Papa Murphys,3.6
+Smile Brands,4.3
+Aucera,3.7
+Kay Jewelers,3.8
+Jiffy Lube,3.5
+SpartanNash,3.9
+The Broad Institute,4.4
+Justice Just for Girls,3.9
+Carnival Corporation &amp; plc,3.9
+Brocade,4.0
+Healthfirst (New York),3.8
+University of Colorado Denver,4.0
+Uncommon Schools,3.6
+Schweitzer Engineering Laboratories,4.0
+Charming Charlie,3.7
+St. Luke's Health System,3.8
+First Watch,4.0
+Huntington Learning Centers,4.1
+Mesa Air,3.7
+Roblox,3.6
+DeVry University,4.3
+Align Technology,4.0
+Commvault,3.9
+Thrivent,3.6
+"Cambridge Associates, LLC",3.9
+LiveRamp,3.8
+Arista Networks,4.2
+Monster Worldwide,4.0
+Methodist Health System,4.1
+BrightStar Care,4.0
+iD Tech Camps,4.1
+FEMA,3.8
+Applied Medical,3.6
+The Ohio State University Wexner Medical Center,3.8
+Solvay,4.0
+Terracon,3.8
+CyberCoders,4.3
+Support.com,3.7
+Digitas,3.9
+Globe Life Liberty National Division,3.9
+Volt Information Sciences,4.1
+Global Payments,3.7
+Daimler Truck North America,4.0
+CDS (Club Demonstration Services),3.7
+Steelcase,4.1
+Clark Construction Group,3.7
+The Connor Group,4.5
+Harmony Public Schools,3.7
+FICO,3.9
+Cameron,3.7
+Kennesaw State University,4.1
+STMicroelectronics,4.0
+Chanel,3.6
+Jackson,4.0
+LendingClub,3.8
+Allegheny Health Network,3.8
+Parkland Health &amp; Hospital System,4.3
+Fractal,4.3
+Children's National Hospital,4.0
+Commonwealth of Massachusetts,3.8
+ABC Supply Co.,3.9
+Baltimore City Public School System,3.5
+Polaris,3.6
+Topgolf,4.1
+NIIT Limited,4.0
+PK,3.9
+Sanmina,3.5
+University of Colorado,3.8
+Texas State,4.2
+Siemens Energy,4.1
+Voya Financial,4.1
+Utah State University,3.9
+Amazon Lab126,3.8
+PROS,4.6
+iCIMS,4.0
+Swedish,3.7
+Benefitfocus,3.9
+San Diego State University,4.1
+Medidata Solutions,4.4
+CrowdStrike,4.1
+NewDay USA,3.5
+Textron,3.7
+TK Elevator,3.6
+Army and Air Force Exchange,3.8
+Crédit Agricole,3.7
+LyondellBasell,3.9
+The Body Shop,4.0
+Audible,3.7
+American Greetings,3.5
+The University of North Carolina System,4.2
+PeopleShare,4.7
+Marks &amp; Spencer,3.8
+Mary Kay,3.9
+Informa,4.0
+Aquent,4.0
+America's Best Contacts &amp; Eyeglasses,3.7
+Tuesday Morning,3.5
+HNTB,4.0
+YWCA,3.9
+Gucci,3.8
+Scientific Games,3.7
+Aptive Environmental,3.9
+Lucky Brand,4.2
+DC Public Schools,3.8
+Ohio University,4.0
+Wabtec,3.8
+City National Bank,3.9
+Cubic,3.5
+PCL Construction,4.0
+Tencent,3.7
+Natera,3.9
+ESS,3.9
+Dematic,3.8
+ResultsCX,3.8
+CR England,3.6
+WebMD Health,3.5
+CBIZ,3.7
+Loma Linda University Health,3.7
+Wolfspeed,4.0
+Environmental Protection Agency,4.1
+Twilio,4.0
+Opendoor,4.2
+Multivision (Illinois),4.1
+Claro,4.0
+DraftKings,4.2
+XYZ (Turkey),3.7
+Time Inc.,4.2
+The Hanover Insurance Group,4.0
+Alcoa,4.2
+Baskin Robbins,3.8
+TitleMax,3.5
+Self Employed Chicago,4.3
+GHR Healthcare,3.6
+UW Health,3.8
+Baylor University,4.0
+Premera Blue Cross,3.6
+GXO Logistics,3.6
+Hillsborough County Public Schools,3.5
+Kaseya,4.1
+Zions Bancorporation,3.8
+Brooksource,3.9
+eTeam,3.9
+Lids,3.5
+Jenny Craig,3.5
+Waters,3.7
