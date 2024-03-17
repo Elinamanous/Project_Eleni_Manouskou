@@ -1,0 +1,339 @@
+longName,symbol,marketCap,exchange,processed_long_name,rating
+"Amazon.com, Inc.",AMZN,1811770245120,NMS,"Amazon,",4.0
+Walmart Inc.,WMT,488643297280,NYQ,Walmart,3.6
+McDonald's Corporation,MCD,201553330176,NYQ,McDonald's,3.7
+Target Corporation,TGT,75818729472,NYQ,Target,4.0
+Accenture plc,ACN,234871209984,NYQ,Accenture,4.2
+Microsoft Corporation,MSFT,3094183936000,NMS,Microsoft,4.3
+Starbucks Corporation,SBUX,102035668992,NMS,Starbucks,4.0
+Cognizant Technology Solutions Corporation,CTSH,37502439424,NMS,Cognizant Technology Solutions,3.8
+The Walt Disney Company,DIS,205349879808,NYQ,The Walt Disney,4.0
+Morgan Stanley,MS,144525164544,NYQ,Morgan Stanley,4.0
+Honeywell International Inc.,HON,128929865728,NMS,Honeywell International,4.2
+The Hershey Company,HSY,39472480256,NYQ,The Hershey,3.8
+"Keysight Technologies, Inc.",KEYS,26148489216,NYQ,"Keysight Technologies,",4.2
+Weyerhaeuser Company,WY,25044457472,NYQ,Weyerhaeuser,3.7
+Mobileye Global Inc.,MBLY,22364846080,NMS,Mobileye Global,4.4
+W. R. Berkley Corporation,WRB,21937504256,NYQ,W. R. Berkley,4.1
+"The Home Depot, Inc.",HD,369876926464,NYQ,"The Home Depot,",4.0
+Apple Inc.,AAPL,2665580593152,NMS,Apple,4.3
+Wells Fargo & Company,WFC,205738573824,NYQ,Wells Fargo &,3.9
+Oracle Corporation,ORCL,345047957504,NYQ,Oracle,4.0
+CVS Health Corporation,CVS,97404035072,NYQ,CVS Health,3.6
+Bank of America Corporation,BAC,279407558656,NYQ,Bank of America,4.2
+AT&amp;T Inc. 5.35% GLB NTS 66,TBB,148582678528,NYQ,AT&amp;T  5.35% GLB NTS 66,3.9
+QUALCOMM Incorporated,QCOM,186595196928,NMS,QUALCOMM,4.0
+"Cisco Systems, Inc.",CSCO,198126862336,NMS,"Cisco Systems,",4.4
+Verizon Communications Inc.,VZ,166026625024,NYQ,Verizon Communications,4.1
+"Meta Platforms, Inc.",META,1234169364480,NMS,"Meta Platforms,",4.0
+Citigroup Inc.,C,110114029568,NYQ,Citigroup,4.0
+"First Citizens BancShares, Inc.",FCNCA,22245068800,NMS,"First Citizens BancShares,",4.0
+Dell Technologies Inc.,DELL,75577843712,NYQ,Dell Technologies,4.3
+Capital One Financial Corporation,COF,51559559168,NYQ,Capital One Financial,4.0
+Enterprise Products Partners L.P.,EPD,62098681856,NYQ,Enterprise Products Partners L.P.,4.1
+Public Service Enterprise Group Incorporated,PEG,31799879680,NYQ,Public Service Enterprise Group,4.1
+"Axon Enterprise, Inc.",AXON,23166906368,NMS,"Axon Enterprise,",4.1
+Hewlett Packard Enterprise Company,HPE,21746155520,NYQ,Hewlett Packard Enterprise,4.1
+"Salesforce, Inc.",CRM,285500080128,NYQ,"Salesforce,",4.3
+"T-Mobile US, Inc.",TMUS,192047431680,NMS,"T-Mobile US,",4.1
+"The Goldman Sachs Group, Inc.",GS,126061248512,NYQ,"The Goldman Sachs Group,",4.0
+The Kroger Co.,KR,40363200512,NYQ,The Kroger Co.,3.5
+Comcast Corporation,CMCSA,169876455424,NMS,Comcast,4.1
+Comcast Holdings Corp.,CCZ,52580958208,NYQ,Comcast Holdings Corp.,4.1
+The Boeing Company,BA,111367938048,NYQ,The Boeing,3.9
+Lockheed Martin Corporation,LMT,105312854016,NYQ,Lockheed Martin,4.1
+"Chipotle Mexican Grill, Inc.",CMG,75583520768,NYQ,"Chipotle Mexican Grill,",3.9
+"PepsiCo, Inc.",PEP,226313633792,NMS,"PepsiCo,",4.1
+UnitedHealth Group Incorporated,UNH,452503666688,NYQ,UnitedHealth Group,4.0
+SAP SE,SAP,223593644032,NYQ,SAP SE,4.4
+"Marriott International, Inc.",MAR,70654607360,NMS,"Marriott International,",4.2
+Northrop Grumman Corporation,NOC,69279121408,NYQ,Northrop Grumman,4.1
+Costco Wholesale Corporation,COST,321819803648,NMS,Costco Wholesale,4.0
+General Electric Company,GE,184642371584,NYQ,General Electric,4.1
+Amgen Inc.,AMGN,144092545024,NMS,Amgen,4.1
+"Regeneron Pharmaceuticals, Inc.",REGN,105862152192,NMS,"Regeneron Pharmaceuticals,",4.0
+"Waste Management, Inc.",WM,84548427776,NYQ,"Waste Management,",4.4
+Diageo plc,DEO,83108823040,NYQ,Diageo,4.1
+"Intercontinental Exchange, Inc.",ICE,77097017344,NYQ,"Intercontinental Exchange,",3.6
+Schlumberger Limited,SLB,75729403904,NYQ,Schlumberger Limited,4.1
+Enbridge Inc.,ENB,75500961792,NYQ,Enbridge,4.1
+General Dynamics Corporation,GD,75402035200,NYQ,General Dynamics,4.1
+"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA,66181480448,NYQ,"Banco Bilbao Vizcaya Argentaria, S.A.",3.7
+Monster Beverage Corporation,MNST,63309283328,NMS,Monster Beverage,3.7
+"Apollo Global Management, Inc.",APO,62730661888,NYQ,"Apollo Global Management,",3.9
+"W.W. Grainger, Inc.",GWW,48856580096,NYQ,"W.W. Grainger,",4.2
+Public Storage,PSA,48808353792,NYQ,Public Storage,4.1
+General Motors Company,GM,46973751296,NYQ,General Motors,4.1
+Ares Management Corporation,ARES,41152266240,NYQ,Ares Management,3.7
+GE HealthCare Technologies Inc.,GEHC,40713469952,NMS,GE HealthCare Technologies,4.3
+"General Mills, Inc.",GIS,37912338432,NYQ,"General Mills,",4.2
+Ingersoll Rand Inc.,IR,36498853888,NYQ,Ingersoll Rand,4.2
+Dollar General Corporation,DG,33352566784,NYQ,Dollar General,4.1
+Biogen Inc.,BIIB,31879118848,NMS,Biogen,4.1
+Orange S.A.,ORAN,30515906560,NYQ,Orange S.A.,4.1
+Extra Space Storage Inc.,EXR,30483869696,NYQ,Extra Space Storage,4.5
+Deutsche Bank Aktiengesellschaft,DB,29541595136,NYQ,Deutsche Bank Aktiengesellschaft,3.8
+"Broadridge Financial Solutions, Inc.",BR,23577954304,NYQ,"Broadridge Financial Solutions,",4.1
+Rogers Communications Inc.,RCI,22668740608,NYQ,Rogers Communications,4.4
+argenx SE,ARGX,22589974528,NMS,argenx SE,4.1
+American Express Company,AXP,158136647680,NYQ,American Express,4.4
+CGI Inc.,GIB,27170234368,NYQ,CGI,4.1
+"NIKE, Inc.",NKE,150966550528,NYQ,"NIKE,",4.2
+"Tesla, Inc.",TSLA,520936128512,NMS,"Tesla,",3.8
+"The PNC Financial Services Group, Inc.",PNC,59191377920,NYQ,"The PNC Financial Services Group,",4.0
+Barclays PLC,BCS,34569490432,NYQ,Barclays PLC,4.1
+UBS Group AG,UBS,102458580992,NYQ,UBS Group AG,4.0
+"HubSpot, Inc.",HUBS,30460440576,NYQ,"HubSpot,",4.0
+HSBC Holdings plc,HSBC,145234296832,NYQ,HSBC Holdings,4.0
+"Ulta Beauty, Inc.",ULTA,26027991040,NMS,"Ulta Beauty,",3.9
+"Honda Motor Co., Ltd.",HMC,58294235136,NYQ,"Honda Motor Co., Ltd.",3.7
+Nu Holdings Ltd.,NU,55332564992,NYQ,Nu Holdings Ltd.,4.3
+TE Connectivity Ltd.,TEL,42972471296,NYQ,TE Connectivity Ltd.,3.9
+Woodside Energy Group Ltd,WDS,37301473280,NYQ,Woodside Energy Group Ltd,4.0
+Arch Capital Group Ltd.,ACGL,34376994816,NMS,Arch Capital Group Ltd.,4.0
+Royal Caribbean Cruises Ltd.,RCL,33087318016,NYQ,Royal Caribbean Cruises Ltd.,3.7
+"Chunghwa Telecom Co., Ltd.",CHT,30114308096,NYQ,"Chunghwa Telecom Co., Ltd.",3.9
+Garmin Ltd.,GRMN,27951497216,NYQ,Garmin Ltd.,4.3
+Nutrien Ltd.,NTR,26596040704,NYQ,Nutrien Ltd.,4.3
+Deckers Outdoor Corporation,DECK,23352928256,NYQ,Deckers Outdoor,3.7
+"ASE Technology Holding Co., Ltd.",ASX,23303548928,NYQ,"ASE Technology Holding Co., Ltd.",3.8
+Ford Motor Company,F,47921979392,NYQ,Ford Motor,4.1
+NVIDIA Corporation,NVDA,2195912523776,NMS,NVIDIA,4.3
+Thomson Reuters Corporation,TRI,71058481152,NYQ,Thomson Reuters,4.4
+The Allstate Corporation,ALL,42669469696,NYQ,The Allstate,3.8
+Thermo Fisher Scientific Inc.,TMO,222743412736,NYQ,Thermo Fisher Scientific,3.8
+Intuit Inc.,INTU,175132475392,NMS,Intuit,4.5
+"Intuitive Surgical, Inc.",ISRG,140461047808,NMS,"Intuitive Surgical,",4.1
+"CBRE Group, Inc.",CBRE,28493924352,NYQ,"CBRE Group,",4.0
+Medtronic plc,MDT,110965915648,NYQ,Medtronic,4.1
+RTX Corporation,RTX,123563442176,NYQ,RTX,3.8
+JPMorgan Chase & Co.,JPM,548134420480,NYQ,JPMorgan Chase & Co.,4.2
+Hilton Worldwide Holdings Inc.,HLT,51607269376,NYQ,Hilton Worldwide Holdings,4.1
+"Ross Stores, Inc.",ROST,48856965120,NMS,"Ross Stores,",3.7
+FedEx Corporation,FDX,63295393792,NYQ,FedEx,3.9
+"HCA Healthcare, Inc.",HCA,85160747008,NYQ,"HCA Healthcare,",3.6
+IQVIA Holdings Inc.,IQV,45996761088,NYQ,IQVIA Holdings,4.1
+"Delta Air Lines, Inc.",DAL,27740131328,NYQ,"Delta Air Lines,",4.3
+"Banco Santander, S.A.",SAN,70491488256,NYQ,"Banco Santander, S.A.",4.1
+Banco Santander (Brasil) S.A.,BSBR,42733490176,NYQ,Banco Santander (Brasil) S.A.,4.1
+Abbott Laboratories,ABT,200395931648,NYQ,Abbott Laboratories,3.8
+Adobe Inc.,ADBE,222860787712,NMS,Adobe,4.4
+"PayPal Holdings, Inc.",PYPL,67358859264,NMS,"PayPal Holdings,",4.0
+The Sherwin-Williams Company,SHW,85036097536,NYQ,The Sherwin-Williams,3.8
+Pfizer Inc.,PFE,158211358720,NYQ,Pfizer,4.0
+The Charles Schwab Corporation,SCHW,122305773568,NYQ,The Charles Schwab,3.9
+State Street Corporation,STT,21890940928,NYQ,State Street,3.7
+Cummins Inc.,CMI,38987976704,NYQ,Cummins,4.4
+The Coca-Cola Company,KO,258230091776,NYQ,The Coca-Cola,4.1
+Humana Inc.,HUM,41969135616,NYQ,Humana,4.1
+"Fiserv, Inc.",FI,88342003712,NYQ,"Fiserv,",3.8
+Caterpillar Inc.,CAT,173268828160,NYQ,Caterpillar,4.0
+"Gartner, Inc.",IT,36720545792,NYQ,"Gartner,",4.1
+"ServiceNow, Inc.",NOW,152501551104,NYQ,"ServiceNow,",4.5
+"The Travelers Companies, Inc.",TRV,50620805120,NYQ,"The Travelers Companies,",4.3
+HP Inc.,HPQ,29765392384,NYQ,HP,4.4
+GSK plc,GSK,87678828544,NYQ,GSK,4.1
+Lululemon Athletica Inc.,LULU,58671243264,NMS,Lululemon Athletica,4.2
+Johnson Controls International plc,JCI,43063795712,NYQ,Johnson Controls International,3.8
+Shell plc,SHEL,212028358656,NYQ,Shell,4.2
+Stryker Corporation,SYK,133940396032,NYQ,Stryker,4.1
+"Merck & Co., Inc.",MRK,307766394880,NYQ,"Merck & Co.,",4.2
+The Cigna Group,CI,102923575296,NYQ,The Cigna Group,3.9
+Visa Inc.,V,581384011776,NYQ,Visa,4.2
+Sanofi,SNY,120676237312,NMS,Sanofi,4.1
+"Elevance Health, Inc.",ELV,119377813504,NYQ,"Elevance Health,",3.9
+eBay Inc.,EBAY,27039600640,NMS,eBay,4.2
+"Digital Realty Trust, Inc.",DLR,44898140160,NYQ,"Digital Realty Trust,",4.4
+"PPG Industries, Inc.",PPG,32446867456,NYQ,"PPG Industries,",4.0
+LyondellBasell Industries N.V.,LYB,32423094272,NYQ,LyondellBasell Industries N.V.,3.9
+Unilever PLC,UL,124592422912,NYQ,Unilever PLC,4.3
+"BlackRock, Inc.",BLK,119528939520,NYQ,"BlackRock,",4.0
+Novartis AG,NVS,198822789120,NYQ,Novartis AG,4.1
+"Uber Technologies, Inc.",UBER,157959356416,NYQ,"Uber Technologies,",4.0
+Texas Instruments Incorporated,TXN,157002858496,NMS,Texas Instruments,4.2
+"Prudential Financial, Inc.",PRU,40533934080,NYQ,"Prudential Financial,",3.9
+Prudential plc,PUK,28197763072,NYQ,Prudential,3.9
+"Rocket Companies, Inc.",RKT,24463663104,NYQ,"Rocket Companies,",4.0
+Cintas Corporation,CTAS,63598137344,NMS,Cintas,3.8
+3M Company,MMM,58033504256,NYQ,3M,3.9
+"MetLife, Inc.",MET,52339421184,NYQ,"MetLife,",4.2
+McKesson Corporation,MCK,70124568576,NYQ,McKesson,4.0
+"Workday, Inc.",WDAY,70873710592,NMS,"Workday,",4.3
+"Micron Technology, Inc.",MU,102939607040,NMS,"Micron Technology,",3.9
+Eaton Corporation plc,ETN,119011049472,NYQ,Eaton,4.1
+AstraZeneca PLC,AZN,206416396288,NMS,AstraZeneca PLC,4.1
+"Applied Materials, Inc.",AMAT,165057691648,NMS,"Applied Materials,",4.1
+Discover Financial Services,DFS,30126733312,NYQ,Discover Financial Services,4.1
+Chevron Corporation,CVX,288898351104,NYQ,Chevron,4.1
+Halliburton Company,HAL,33583548416,NYQ,Halliburton,3.8
+"L3Harris Technologies, Inc.",LHX,40462557184,NYQ,"L3Harris Technologies,",4.2
+Mastercard Incorporated,MA,443898003456,NYQ,Mastercard,4.4
+The Kraft Heinz Company,KHC,41694244864,NMS,The Kraft Heinz,3.7
+"The TJX Companies, Inc.",TJX,111175786496,NYQ,"The TJX Companies,",3.9
+"Paychex, Inc.",PAYX,43279392768,NMS,"Paychex,",3.9
+Ecolab Inc.,ECL,64725794816,NYQ,Ecolab,3.9
+Emerson Electric Co.,EMR,63224295424,NYQ,Emerson Electric Co.,4.1
+AbbVie Inc.,ABBV,314219692032,NYQ,AbbVie,3.9
+"DoorDash, Inc.",DASH,52742721536,NMS,"DoorDash,",3.9
+Taiwan Semiconductor Manufacturing Company Limited,TSM,710516604928,NYQ,Taiwan Semiconductor Manufacturing  Limited,4.0
+Alibaba Group Holding Limited,BABA,183810637824,NYQ,Alibaba Group Holding Limited,4.0
+BHP Group Limited,BHP,141307150336,NYQ,BHP Group Limited,4.1
+HDFC Bank Limited,HDB,139853955072,NYQ,HDFC Bank Limited,4.1
+"Mitsubishi UFJ Financial Group, Inc.",MUFG,119867670528,NYQ,"Mitsubishi UFJ Financial Group,",3.6
+Chubb Limited,CB,103991975936,NYQ,Chubb Limited,4.1
+ICICI Bank Limited,IBN,91415969792,NYQ,ICICI Bank Limited,4.1
+Canadian Pacific Kansas City Limited,CP,83647406080,NYQ,Canadian Pacific Kansas City Limited,3.6
+Infosys Limited,INFY,81525964800,NYQ,Infosys Limited,4.1
+Canadian Natural Resources Limited,CNQ,77742981120,NYQ,Canadian Natural Resources Limited,4.1
+"Sumitomo Mitsui Financial Group, Inc.",SMFG,75838701568,NYQ,"Sumitomo Mitsui Financial Group,",4.0
+Takeda Pharmaceutical Company Limited,TAK,45507571712,NYQ,Takeda Pharmaceutical  Limited,4.0
+Imperial Oil Limited,IMO,36156981248,ASE,Imperial Oil Limited,4.1
+Sea Limited,SE,33061959680,NYQ,Sea Limited,4.1
+Wipro Limited,WIT,32507758592,NYQ,Wipro Limited,4.1
+Trip.com Group Limited,TCOM,28415522816,NMS,Trip Group Limited,4.1
+Willis Towers Watson Public Limited Company,WTW,27869708288,NMS,Willis Towers Watson Public Limited,4.0
+Agnico Eagle Mines Limited,AEM,27834064896,NYQ,Agnico Eagle Mines Limited,3.9
+ICON Public Limited Company,ICLR,27616061440,NMS,ICON Public Limited,4.0
+Vodafone Group Public Limited Company,VOD,23884558336,NMS,Vodafone Group Public Limited,4.0
+Teck Resources Limited,TECK,23249750016,NYQ,Teck Resources Limited,4.1
+ArcelorMittal S.A.,MT,21766936576,NYQ,ArcelorMittal S.A.,3.8
+Boston Scientific Corporation,BSX,97166041088,NYQ,Boston Scientific,4.2
+"Cardinal Health, Inc.",CAH,26904000512,NYQ,"Cardinal Health,",3.9
+BP p.l.c.,BP,106186301440,NYQ,BP p.l.c.,3.8
+Fastenal Company,FAST,42949197824,NMS,Fastenal,3.6
+Eli Lilly and Company,LLY,716585172992,NYQ,Eli Lilly and,4.2
+Sysco Corporation,SYY,40284405760,NYQ,Sysco,3.5
+"Synopsys, Inc.",SNPS,83903782912,NMS,"Synopsys,",4.2
+"Autodesk, Inc.",ADSK,54385754112,NMS,"Autodesk,",4.4
+"The Hartford Financial Services Group, Inc.",HIG,29458466816,NYQ,"The Hartford Financial Services Group,",4.0
+Fifth Third Bancorp,FITB,24088303616,NMS,Fifth Third Bancorp,4.0
+The Estée Lauder Companies Inc.,EL,53681332224,NYQ,The Estée Lauder Companies,4.0
+Electronic Arts Inc.,EA,35897085952,NMS,Electronic Arts,4.1
+"Motorola Solutions, Inc.",MSI,57181315072,NYQ,"Motorola Solutions,",4.2
+CDW Corporation,CDW,32951123968,NMS,CDW,4.1
+Dow Inc.,DOW,40383692800,NYQ,Dow,4.3
+"Marsh & McLennan Companies, Inc.",MMC,101448294400,NYQ,"Marsh & McLennan Companies,",4.2
+Newmont Corporation,NEM,39056527360,NYQ,Newmont,4.4
+Howmet Aerospace Inc.,HWM,27178536960,NYQ,Howmet Aerospace,4.4
+Aflac Incorporated,AFL,48682168320,NYQ,Aflac,4.0
+NXP Semiconductors N.V.,NXPI,60919271424,NMS,NXP Semiconductors N.V.,4.1
+ON Semiconductor Corporation,ON,31994122240,NMS,ON Semiconductor,4.0
+"Gilead Sciences, Inc.",GILD,91800797184,NMS,"Gilead Sciences,",4.0
+"O'Reilly Automotive, Inc.",ORLY,65718366208,NMS,"O'Reilly Automotive,",3.9
+"Old Dominion Freight Line, Inc.",ODFL,45832347648,NMS,"Old Dominion Freight Line,",4.0
+Baker Hughes Company,BKR,32574681088,NMS,Baker Hughes,4.1
+"Netflix, Inc.",NFLX,262200623104,NMS,"Netflix,",4.2
+Arthur J. Gallagher & Co.,AJG,54887256064,NYQ,Arthur J. Gallagher & Co.,3.6
+"Fidelity National Information Services, Inc.",FIS,39845330944,NYQ,"Fidelity National Information Services,",4.0
+Stellantis N.V.,STLA,85954011136,NYQ,Stellantis N.V.,3.8
+"Ameriprise Financial, Inc.",AMP,42071068672,NYQ,"Ameriprise Financial,",3.9
+Arm Holdings plc,ARM,130535317504,NMS,Arm Holdings,4.3
+Vertex Pharmaceuticals Incorporated,VRTX,105309585408,NMS,Vertex Pharmaceuticals,4.3
+"West Pharmaceutical Services, Inc.",WST,28375877632,NYQ,"West Pharmaceutical Services,",3.9
+Anheuser-Busch InBev SA/NV,BUD,120993210368,NYQ,Anheuser-Busch InBev SA/NV,3.8
+Kimberly-Clark Corporation,KMB,41935683584,NYQ,Kimberly-Clark,4.1
+"Republic Services, Inc.",RSG,58615177216,NYQ,"Republic Services,",3.6
+"DuPont de Nemours, Inc.",DD,30663120896,NYQ,"DuPont de Nemours,",4.1
+Truist Financial Corporation,TFC,46523805696,NYQ,Truist Financial,3.7
+"Rockwell Automation, Inc.",ROK,32186601472,NYQ,"Rockwell Automation,",4.1
+GLOBALFOUNDRIES Inc.,GFS,28699963392,NMS,GLOBALFOUNDRIES,3.7
+"Builders FirstSource, Inc.",BLDR,23838050304,NYQ,"Builders FirstSource,",4.4
+FirstEnergy Corp.,FE,21800036352,NYQ,FirstEnergy Corp.,4.1
+Novo Nordisk A/S,NVO,590691893248,NYQ,Novo Nordisk A/S,4.2
+The Bank of Nova Scotia,BNS,60875022336,NYQ,The Bank of Nova Scotia,3.8
+Cenovus Energy Inc.,CVE,34737352704,NYQ,Cenovus Energy,3.8
+Tractor Supply Company,TSCO,27750856704,NMS,Tractor Supply,3.7
+"Airbnb, Inc.",ABNB,102466633728,NMS,"Airbnb,",4.3
+"Zimmer Biomet Holdings, Inc.",ZBH,25670363136,NYQ,"Zimmer Biomet Holdings,",3.8
+International Business Machines Corporation,IBM,175162474496,NYQ,International Business Machines,4.2
+Microchip Technology Incorporated,MCHP,47899987968,NMS,Microchip Technology,4.1
+ASML Holding N.V.,ASML,380767174656,NMS,ASML Holding N.V.,4.2
+"Palo Alto Networks, Inc.",PANW,91165900800,NMS,"Palo Alto Networks,",4.1
+"Molina Healthcare, Inc.",MOH,23619880960,NYQ,"Molina Healthcare,",3.7
+"Raymond James Financial, Inc.",RJF,25242222592,NYQ,"Raymond James Financial,",4.0
+"Agilent Technologies, Inc.",A,43219750912,NYQ,"Agilent Technologies,",4.2
+Equifax Inc.,EFX,31353430016,NYQ,Equifax,3.8
+"Cadence Design Systems, Inc.",CDNS,81247010816,NMS,"Cadence Design Systems,",4.3
+"Block, Inc.",SQ,49360105472,NYQ,"Block,",4.2
+"Analog Devices, Inc.",ADI,96801243136,NMS,"Analog Devices,",4.1
+Alcon Inc.,ALC,42120167424,NYQ,Alcon,3.8
+Corning Incorporated,GLW,27746437120,NYQ,Corning,3.9
+Duke Energy Corporation,DUK,73003507712,NYQ,Duke Energy,4.0
+"Cencora, Inc.",COR,47849447424,NYQ,"Cencora,",3.6
+Splunk Inc.,SPLK,26443769856,NMS,Splunk,4.1
+NatWest Group plc,NWG,27350499328,NYQ,NatWest Group,4.3
+"T. Rowe Price Group, Inc.",TROW,25689241600,NMS,"T. Rowe Price Group,",3.9
+"Marvell Technology, Inc.",MRVL,57909424128,NMS,"Marvell Technology,",4.2
+Lam Research Corporation,LRCX,119315529728,NMS,Lam Research,3.9
+National Grid plc,NGG,50506358784,NYQ,National Grid,4.0
+Iron Mountain Incorporated,IRM,22975815680,NYQ,Iron Mountain,3.8
+Colgate-Palmolive Company,CL,72807702528,NYQ,Colgate-Palmolive,4.3
+"Live Nation Entertainment, Inc.",LYV,23949907968,NYQ,"Live Nation Entertainment,",4.1
+Palantir Technologies Inc.,PLTR,51977031680,NYQ,Palantir Technologies,3.7
+KLA Corporation,KLAC,92486533120,NMS,KLA,4.1
+PDD Holdings Inc.,PDD,164399710208,NMS,PDD Holdings,4.2
+Booking Holdings Inc.,BKNG,116659109888,NMS,Booking Holdings,4.2
+"Automatic Data Processing, Inc.",ADP,99448389632,NMS,"Automatic Data Processing,",4.1
+"CrowdStrike Holdings, Inc.",CRWD,76345942016,NMS,"CrowdStrike Holdings,",4.1
+Itaú Unibanco Holding S.A.,ITUB,67263700992,NYQ,Itaú Unibanco Holding S.A.,4.2
+ING Groep N.V.,ING,50642108416,NYQ,ING Groep N.V.,4.2
+Lloyds Banking Group plc,LYG,40280231936,NYQ,Lloyds Banking Group,4.2
+Ryanair Holdings plc,RYAAY,32364326912,NMS,Ryanair Holdings,4.2
+Vertiv Holdings Co,VRT,28326895616,NYQ,Vertiv Holdings Co,4.2
+POSCO Holdings Inc.,PKX,24943456256,NYQ,POSCO Holdings,4.2
+Westinghouse Air Brake Technologies Corporation,WAB,24752195584,NYQ,Westinghouse Air Brake Technologies,3.5
+Sony Group Corporation,SONY,108052357120,NYQ,Sony Group,4.0
+"Equinix, Inc.",EQIX,80465092608,NMS,"Equinix,",4.3
+"MongoDB, Inc.",MDB,25855166464,NGM,"MongoDB,",4.2
+Shopify Inc.,SHOP,99306708992,NYQ,Shopify,3.7
+Marathon Petroleum Corporation,MPC,69847531520,NYQ,Marathon Petroleum,3.6
+Sun Life Financial Inc.,SLF,31891628032,NYQ,Sun Life Financial,4.3
+"Fortinet, Inc.",FTNT,50909425664,NMS,"Fortinet,",4.1
+"United Rentals, Inc.",URI,45393301504,NYQ,"United Rentals,",4.1
+MicroStrategy Incorporated,MSTR,30243262464,NMS,MicroStrategy,4.1
+TELUS Corporation,TU,24442558464,NYQ,TELUS,4.1
+Carrier Global Corporation,CARR,51350872064,NYQ,Carrier Global,3.9
+"Datadog, Inc.",DDOG,39964266496,NMS,"Datadog,",3.8
+Exelon Corporation,EXC,36463181824,NMS,Exelon,4.2
+"Nasdaq, Inc.",NDAQ,34328352768,NMS,"Nasdaq,",3.5
+Keurig Dr Pepper Inc.,KDP,39062798336,NMS,Keurig Dr Pepper,3.7
+Veeva Systems Inc.,VEEV,36547411968,NYQ,Veeva Systems,3.9
+TotalEnergies SE,TTE,159804129280,NYQ,TotalEnergies SE,3.8
+Linde plc,LIN,225488338944,NMS,Linde,3.7
+Moody's Corporation,MCO,70133014528,NYQ,Moody's,3.9
+Edwards Lifesciences Corporation,EW,55505997824,NYQ,Edwards Lifesciences,4.1
+ConocoPhillips,COP,141216251904,NYQ,ConocoPhillips,4.0
+"Altria Group, Inc.",MO,77362987008,NYQ,"Altria Group,",4.0
+CME Group Inc.,CME,78298914816,NMS,CME Group,3.9
+"NextEra Energy, Inc.",NEE,123309998080,NYQ,"NextEra Energy,",3.8
+"Pinterest, Inc.",PINS,23214426112,NYQ,"Pinterest,",3.9
+Toyota Motor Corporation,TM,316980985856,NYQ,Toyota Motor,3.8
+"IDEXX Laboratories, Inc.",IDXX,44018274304,NMS,"IDEXX Laboratories,",3.6
+"Verisk Analytics, Inc.",VRSK,33627824128,NMS,"Verisk Analytics,",3.9
+Manulife Financial Corporation,MFC,43617796096,NYQ,Manulife Financial,4.2
+"DexCom, Inc.",DXCM,50294292480,NMS,"DexCom,",4.0
+"Dominion Energy, Inc.",D,40063275008,NYQ,"Dominion Energy,",3.9
+Snowflake Inc.,SNOW,51611738112,NYQ,Snowflake,3.8
+"Zscaler, Inc.",ZS,29076946944,NMS,"Zscaler,",3.8
+"Air Products and Chemicals, Inc.",APD,54381494272,NYQ,"Air Products and Chemicals,",4.3
+"Copart, Inc.",CPRT,53966864384,NMS,"Copart,",3.7
+The Southern Company,SO,75378573312,NYQ,The Southern,4.3
+The Southern Company JR 2017B NT 77,SOJC,24607049728,NYQ,The Southern  JR 2017B NT 77,4.3
+Otis Worldwide Corporation,OTIS,39937318912,NYQ,Otis Worldwide,3.7
+"ANSYS, Inc.",ANSS,28531396608,NMS,"ANSYS,",4.3
+DTE Energy Company,DTE,22447224832,NYQ,DTE Energy,3.8
+Freeport-McMoRan Inc.,FCX,63989030912,NYQ,Freeport-McMoRan,3.9
+"AvalonBay Communities, Inc.",AVB,26107035648,NYQ,"AvalonBay Communities,",4.3
+"The Williams Companies, Inc.",WMB,45019746304,NYQ,"The Williams Companies,",4.0
+Equity Residential,EQR,23923288064,NYQ,Equity Residential,4.3
+Rio Tinto Group,RIO,100962910208,NYQ,Rio Tinto Group,3.8
+Occidental Petroleum Corporation,OXY,55100612608,NYQ,Occidental Petroleum,3.9
+"Coinbase Global, Inc.",COIN,58717769728,NMS,"Coinbase Global,",3.7
+MSCI Inc.,MSCI,43156262912,NYQ,MSCI,4.2
+Roblox Corporation,RBLX,24785477632,NYQ,Roblox,3.6
+"Align Technology, Inc.",ALGN,23608973312,NMS,"Align Technology,",4.0
+"Arista Networks, Inc.",ANET,86827843584,NYQ,"Arista Networks,",4.2
+Global Payments Inc.,GPN,33130440704,NYQ,Global Payments,3.7
+STMicroelectronics N.V.,STM,42888081408,NYQ,STMicroelectronics N.V.,4.0
+The Progressive Corporation,PGR,119998210048,NYQ,The Progressive,4.0
+Hess Corporation,HES,46336950272,NYQ,Hess,3.9
