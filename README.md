@@ -25,4 +25,3 @@ I wasn’t able to complete the task within the given time frame
 
 
 
-![image](https://github.com/Elinamanous/Project_Eleni_Manouskou/assets/142017666/d2fc8389-83cd-4544-be26-096e76541d6f)
